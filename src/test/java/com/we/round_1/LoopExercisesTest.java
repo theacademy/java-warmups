@@ -1,6 +1,6 @@
-package com.sg.warmupexercises;
+package com.we.round_1;
 
-import static com.sg.warmupexercises.LoopExercises.*;
+import static com.we.round_1.LoopExercises.*;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
